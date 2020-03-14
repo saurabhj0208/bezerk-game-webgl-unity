@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CGGame",
+"dataUrl": "sjoshi23_CG.data.unityweb",
+"wasmCodeUrl": "sjoshi23_CG.wasm.code.unityweb",
+"wasmFrameworkUrl": "sjoshi23_CG.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
